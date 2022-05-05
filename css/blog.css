@@ -1,13 +1,6 @@
 *{
     margin: 0;
 }
-
-.topnav{
-    background-color: rgb(75, 236, 145);
-    padding: 14px 7px;
-    
-
-}
 .topnav a{
     padding: 20px 10px;
     text-decoration: none;

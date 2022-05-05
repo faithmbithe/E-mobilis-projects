@@ -1,0 +1,54 @@
+
+.topnav{
+    background-color: darkseagreen;
+    overflow: hidden;
+
+}
+.topnav a{
+text-decoration: none;
+padding: 14px 7px;
+display: block;
+float: left;
+text-align: center;
+color: white;
+}
+
+.topnav a:hover{
+    background-color: yellow;
+    color: rgb(186, 31, 31);
+}
+.landing{
+    background-image: url("../images/lionimg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 530px;
+    background-color: rgb(247, 7, 19);
+}
+
+.landtext{
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+.landtn{
+    background-color: dark green;
+    padding: 12px 12px;
+    border-radius: 8px;
+    color: white;
+    width: 40%;
+    border: none;
+}
+.separate{
+    margin-top: 5px;
+}
+
+.landtn:hover{
+    background-color: red;
+    colour: black
+}
